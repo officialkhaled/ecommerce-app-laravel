@@ -11,14 +11,14 @@
         <path
             d="M0 1.5A.5.5 0 0 1 .5 1H2a.5.5 0 0 1 .485.379L2.89 3H14.5a.5.5 0 0 1 .491.592l-1.5 8A.5.5 0 0 1 13 12H4a.5.5 0 0 1-.491-.408L2.01 3.607 1.61 2H.5a.5.5 0 0 1-.5-.5zM5 12a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm7 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm-7 1a1 1 0 1 1 0 2 1 1 0 0 1 0-2zm7 0a1 1 0 1 1 0 2 1 1 0 0 1 0-2z"/>
     </symbol>
-   {{-- <svg xmlns="http://www.w3.org/2000/svg" id="chevron-left" viewBox="0 0 16 16">
-        <path fill-rule="evenodd"
-              d="M11.354 1.646a.5.5 0 0 1 0 .708L5.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0z"/>
-    </svg>
-    <symbol xmlns="http://www.w3.org/2000/svg" id="chevron-right" viewBox="0 0 16 16">
-        <path fill-rule="evenodd"
-              d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z"/>
-    </symbol>--}}
+    {{-- <svg xmlns="http://www.w3.org/2000/svg" id="chevron-left" viewBox="0 0 16 16">
+         <path fill-rule="evenodd"
+               d="M11.354 1.646a.5.5 0 0 1 0 .708L5.707 8l5.647 5.646a.5.5 0 0 1-.708.708l-6-6a.5.5 0 0 1 0-.708l6-6a.5.5 0 0 1 .708 0z"/>
+     </svg>
+     <symbol xmlns="http://www.w3.org/2000/svg" id="chevron-right" viewBox="0 0 16 16">
+         <path fill-rule="evenodd"
+               d="M4.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L10.293 8 4.646 2.354a.5.5 0 0 1 0-.708z"/>
+     </symbol>--}}
 
     <symbol xmlns="http://www.w3.org/2000/svg" id="cart-outline" viewBox="0 0 16 16">
         <path
@@ -161,13 +161,10 @@
                             <a class="nav-link me-4 active" href="#billboard">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link me-4" href="#company-services">Services</a>
-                        </li>
-                        <li class="nav-item">
                             <a class="nav-link me-4" href="#mobile-products">Products</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link me-4" href="#smart-watches">Watches</a>
+                            <a class="nav-link me-4" href="#smart-watches">Accessories</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link me-4" href="#yearly-sale">Sale</a>
@@ -178,29 +175,19 @@
                                aria-expanded="false">Pages</a>
                             <ul class="dropdown-menu">
                                 <li>
-                                    <a href="about.html" class="dropdown-item">About</a>
+                                    <a href="#" class="dropdown-item">Shop</a>
                                 </li>
                                 <li>
-                                    <a href="blog.html" class="dropdown-item">Blog</a>
+                                    <a href="#" class="dropdown-item">Cart</a>
                                 </li>
                                 <li>
-                                    <a href="shop.html" class="dropdown-item">Shop</a>
+                                    <a href="#" class="dropdown-item">Checkout</a>
                                 </li>
                                 <li>
-                                    <a href="cart.html" class="dropdown-item">Cart</a>
+                                    <a href="#" class="dropdown-item">About</a>
                                 </li>
                                 <li>
-                                    <a href="checkout.html" class="dropdown-item">Checkout</a>
-                                </li>
-                                <li>
-                                    <a href="single-post.html" class="dropdown-item">Single Post</a>
-                                </li>
-                                <li>
-                                    <a href="single-product.html" class="dropdown-item">Single
-                                        Product</a>
-                                </li>
-                                <li>
-                                    <a href="contact.html" class="dropdown-item">Contact</a>
+                                    <a href="#" class="dropdown-item">Contact</a>
                                 </li>
                             </ul>
                         </li>
