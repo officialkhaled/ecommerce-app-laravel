@@ -57,9 +57,9 @@
 									</p>
 								</div>
 								<div class="avatar-sm">
-													<span class="avatar-title bg-light text-success rounded-3">
-														<i class="mdi mdi-currency-usd font-size-24"></i>
-													</span>
+									<span class="avatar-title bg-light text-success rounded-3">
+										<i class="mdi mdi-currency-usd font-size-24"></i>
+									</span>
 								</div>
 							</div>
 						</div><!-- end cardbody -->
@@ -77,9 +77,9 @@
 									</p>
 								</div>
 								<div class="avatar-sm">
-													<span class="avatar-title bg-light text-primary rounded-3">
-														<i class="ri-user-3-line font-size-24"></i>
-													</span>
+									<span class="avatar-title bg-light text-primary rounded-3">
+										<i class="ri-user-3-line font-size-24"></i>
+									</span>
 								</div>
 							</div>
 						</div><!-- end cardbody -->
@@ -97,9 +97,9 @@
 									</p>
 								</div>
 								<div class="avatar-sm">
-													<span class="avatar-title bg-light text-success rounded-3">
-														<i class="mdi mdi-currency-btc font-size-24"></i>
-													</span>
+									<span class="avatar-title bg-light text-success rounded-3">
+										<i class="mdi mdi-currency-btc font-size-24"></i>
+									</span>
 								</div>
 							</div>
 						</div><!-- end cardbody -->
