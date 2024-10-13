@@ -6,6 +6,7 @@
 				<i class="mdi mdi-close noti-icon"></i>
 			</a>
 		</div>
+		
 		<!-- Settings -->
 		<hr class="mt-0"/>
 		<h6 class="text-center mb-0">Choose Layouts</h6>

@@ -1,13 +1,12 @@
 <div class="vertical-menu">
 	<div data-simplebar class="h-100">
-		
 		<!-- User details -->
 		<div class="user-profile text-center mt-3">
 			<div class="">
 				<img src="{{ asset('backend/assets/images/users/avatar-1.jpg') }}" alt="" class="avatar-md rounded-circle">
 			</div>
 			<div class="mt-3">
-				<h4 class="font-size-16 mb-1">Julia Hudda</h4>
+				<h4 class="font-size-16 mb-1">Khaled Hossain</h4>
 				<span class="text-muted"><i class="ri-record-circle-line align-middle font-size-14 text-success"></i> Online</span>
 			</div>
 		</div>
@@ -19,14 +18,14 @@
 				<li class="menu-title">Menu</li>
 				
 				<li>
-					<a href="index.html" class="waves-effect">
+					<a href="#" class="waves-effect">
 						<i class="ri-dashboard-line"></i><span class="badge rounded-pill bg-success float-end">3</span>
 						<span>Dashboard</span>
 					</a>
 				</li>
 				
 				<li>
-					<a href="calendar.html" class=" waves-effect">
+					<a href="#" class=" waves-effect">
 						<i class="ri-calendar-2-line"></i>
 						<span>Calendar</span>
 					</a>
@@ -38,8 +37,8 @@
 						<span>Email</span>
 					</a>
 					<ul class="sub-menu" aria-expanded="false">
-						<li><a href="email-inbox.html">Inbox</a></li>
-						<li><a href="email-read.html">Read Email</a></li>
+						<li><a href="#">Inbox</a></li>
+						<li><a href="#">Read Email</a></li>
 					</ul>
 				</li>
 				
@@ -52,13 +51,13 @@
 						<li>
 							<a href="javascript: void(0);" class="has-arrow">Vertical</a>
 							<ul class="sub-menu" aria-expanded="true">
-								<li><a href="layouts-dark-sidebar.html">Dark Sidebar</a></li>
-								<li><a href="layouts-compact-sidebar.html">Compact Sidebar</a>
+								<li><a href="#">Dark Sidebar</a></li>
+								<li><a href="#">Compact Sidebar</a>
 								</li>
-								<li><a href="layouts-icon-sidebar.html">Icon Sidebar</a></li>
-								<li><a href="layouts-boxed.html">Boxed Layout</a></li>
-								<li><a href="layouts-preloader.html">Preloader</a></li>
-								<li><a href="layouts-colored-sidebar.html">Colored Sidebar</a>
+								<li><a href="#">Icon Sidebar</a></li>
+								<li><a href="#">Boxed Layout</a></li>
+								<li><a href="#">Preloader</a></li>
+								<li><a href="#">Colored Sidebar</a>
 								</li>
 							</ul>
 						</li>
@@ -66,13 +65,13 @@
 						<li>
 							<a href="javascript: void(0);" class="has-arrow">Horizontal</a>
 							<ul class="sub-menu" aria-expanded="true">
-								<li><a href="layouts-horizontal.html">Horizontal</a></li>
-								<li><a href="layouts-hori-topbar-light.html">Topbar light</a>
+								<li><a href="#">Horizontal</a></li>
+								<li><a href="#">Topbar light</a>
 								</li>
-								<li><a href="layouts-hori-boxed-width.html">Boxed width</a></li>
-								<li><a href="layouts-hori-preloader.html">Preloader</a></li>
+								<li><a href="#">Boxed width</a></li>
+								<li><a href="#">Preloader</a></li>
 								<li>
-									<a href="layouts-hori-colored-header.html">Colored Header</a>
+									<a href="#">Colored Header</a>
 								</li>
 							</ul>
 						</li>
@@ -87,10 +86,10 @@
 						<span>Authentication</span>
 					</a>
 					<ul class="sub-menu" aria-expanded="false">
-						<li><a href="auth-login.html">Login</a></li>
-						<li><a href="auth-register.html">Register</a></li>
-						<li><a href="auth-recoverpw.html">Recover Password</a></li>
-						<li><a href="auth-lock-screen.html">Lock Screen</a></li>
+						<li><a href="#">Login</a></li>
+						<li><a href="#">Register</a></li>
+						<li><a href="#">Recover Password</a></li>
+						<li><a href="#">Lock Screen</a></li>
 					</ul>
 				</li>
 				
@@ -100,12 +99,12 @@
 						<span>Utility</span>
 					</a>
 					<ul class="sub-menu" aria-expanded="false">
-						<li><a href="pages-starter.html">Starter Page</a></li>
-						<li><a href="pages-timeline.html">Timeline</a></li>
-						<li><a href="pages-directory.html">Directory</a></li>
-						<li><a href="pages-invoice.html">Invoice</a></li>
-						<li><a href="pages-404.html">Error 404</a></li>
-						<li><a href="pages-500.html">Error 500</a></li>
+						<li><a href="#">Starter Page</a></li>
+						<li><a href="#">Timeline</a></li>
+						<li><a href="#">Directory</a></li>
+						<li><a href="#">Invoice</a></li>
+						<li><a href="#">Error 404</a></li>
+						<li><a href="#">Error 500</a></li>
 					</ul>
 				</li>
 				
@@ -117,21 +116,21 @@
 						<span>UI Elements</span>
 					</a>
 					<ul class="sub-menu" aria-expanded="false">
-						<li><a href="ui-alerts.html">Alerts</a></li>
-						<li><a href="ui-buttons.html">Buttons</a></li>
-						<li><a href="ui-cards.html">Cards</a></li>
-						<li><a href="ui-carousel.html">Carousel</a></li>
-						<li><a href="ui-dropdowns.html">Dropdowns</a></li>
-						<li><a href="ui-grid.html">Grid</a></li>
-						<li><a href="ui-images.html">Images</a></li>
-						<li><a href="ui-lightbox.html">Lightbox</a></li>
-						<li><a href="ui-modals.html">Modals</a></li>
-						<li><a href="ui-offcanvas.html">Offcavas</a></li>
-						<li><a href="ui-progressbars.html">Progress Bars</a></li>
-						<li><a href="ui-tabs-accordions.html">Tabs & Accordions</a></li>
-						<li><a href="ui-typography.html">Typography</a></li>
-						<li><a href="ui-video.html">Video</a></li>
-						<li><a href="ui-general.html">General</a></li>
+						<li><a href="#">Alerts</a></li>
+						<li><a href="#">Buttons</a></li>
+						<li><a href="#">Cards</a></li>
+						<li><a href="#">Carousel</a></li>
+						<li><a href="#">Dropdowns</a></li>
+						<li><a href="#">Grid</a></li>
+						<li><a href="#">Images</a></li>
+						<li><a href="#">Lightbox</a></li>
+						<li><a href="#">Modals</a></li>
+						<li><a href="#">Offcavas</a></li>
+						<li><a href="#">Progress Bars</a></li>
+						<li><a href="#">Tabs & Accordions</a></li>
+						<li><a href="#">Typography</a></li>
+						<li><a href="#">Video</a></li>
+						<li><a href="#">General</a></li>
 					
 					</ul>
 				</li>
@@ -142,12 +141,12 @@
 						<span>Advanced UI</span>
 					</a>
 					<ul class="sub-menu" aria-expanded="false">
-						<li><a href="advance-rangeslider.html">Range Slider</a></li>
-						<li><a href="advance-roundslider.html">Round Slider</a></li>
-						<li><a href="advance-session-timeout.html">Session Timeout</a></li>
-						<li><a href="advance-sweet-alert.html">Sweetalert 2</a></li>
-						<li><a href="advance-rating.html">Rating</a></li>
-						<li><a href="advance-notifications.html">Notifications</a></li>
+						<li><a href="#">Range Slider</a></li>
+						<li><a href="#">Round Slider</a></li>
+						<li><a href="#">Session Timeout</a></li>
+						<li><a href="#">Sweetalert 2</a></li>
+						<li><a href="#">Rating</a></li>
+						<li><a href="#">Notifications</a></li>
 					</ul>
 				</li>
 				
@@ -158,14 +157,14 @@
 						<span>Forms</span>
 					</a>
 					<ul class="sub-menu" aria-expanded="false">
-						<li><a href="form-elements.html">Form Elements</a></li>
-						<li><a href="form-validation.html">Form Validation</a></li>
-						<li><a href="form-advanced.html">Form Advanced Plugins</a></li>
-						<li><a href="form-editors.html">Form Editors</a></li>
-						<li><a href="form-uploads.html">Form File Upload</a></li>
-						<li><a href="form-xeditable.html">Form X-editable</a></li>
-						<li><a href="form-wizard.html">Form Wizard</a></li>
-						<li><a href="form-mask.html">Form Mask</a></li>
+						<li><a href="#">Form Elements</a></li>
+						<li><a href="#">Form Validation</a></li>
+						<li><a href="#">Form Advanced Plugins</a></li>
+						<li><a href="#">Form Editors</a></li>
+						<li><a href="#">Form File Upload</a></li>
+						<li><a href="#">Form X-editable</a></li>
+						<li><a href="#">Form Wizard</a></li>
+						<li><a href="#">Form Mask</a></li>
 					</ul>
 				</li>
 				
@@ -175,10 +174,10 @@
 						<span>Tables</span>
 					</a>
 					<ul class="sub-menu" aria-expanded="false">
-						<li><a href="tables-basic.html">Basic Tables</a></li>
-						<li><a href="tables-datatable.html">Data Tables</a></li>
-						<li><a href="tables-responsive.html">Responsive Table</a></li>
-						<li><a href="tables-editable.html">Editable Table</a></li>
+						<li><a href="#">Basic Tables</a></li>
+						<li><a href="#">Data Tables</a></li>
+						<li><a href="#">Responsive Table</a></li>
+						<li><a href="#">Editable Table</a></li>
 					</ul>
 				</li>
 				
@@ -188,11 +187,11 @@
 						<span>Charts</span>
 					</a>
 					<ul class="sub-menu" aria-expanded="false">
-						<li><a href="charts-apex.html">Apex Charts</a></li>
-						<li><a href="charts-chartjs.html">Chartjs Charts</a></li>
-						<li><a href="charts-flot.html">Flot Charts</a></li>
-						<li><a href="charts-knob.html">Jquery Knob Charts</a></li>
-						<li><a href="charts-sparkline.html">Sparkline Charts</a></li>
+						<li><a href="#">Apex Charts</a></li>
+						<li><a href="#">ChartJs Charts</a></li>
+						<li><a href="#">Flot Charts</a></li>
+						<li><a href="#">Jquery Knob Charts</a></li>
+						<li><a href="#">Sparkline Charts</a></li>
 					</ul>
 				</li>
 				
@@ -202,10 +201,10 @@
 						<span>Icons</span>
 					</a>
 					<ul class="sub-menu" aria-expanded="false">
-						<li><a href="icons-remix.html">Remix Icons</a></li>
-						<li><a href="icons-materialdesign.html">Material Design</a></li>
-						<li><a href="icons-dripicons.html">Dripicons</a></li>
-						<li><a href="icons-fontawesome.html">Font awesome 5</a></li>
+						<li><a href="#">Remix Icons</a></li>
+						<li><a href="#">Material Design</a></li>
+						<li><a href="#">Dripicons</a></li>
+						<li><a href="#">Font awesome 5</a></li>
 					</ul>
 				</li>
 				
@@ -215,8 +214,8 @@
 						<span>Maps</span>
 					</a>
 					<ul class="sub-menu" aria-expanded="false">
-						<li><a href="maps-google.html">Google Maps</a></li>
-						<li><a href="maps-vector.html">Vector Maps</a></li>
+						<li><a href="#">Google Maps</a></li>
+						<li><a href="#">Vector Maps</a></li>
 					</ul>
 				</li>
 				
@@ -235,7 +234,6 @@
 						</li>
 					</ul>
 				</li>
-			
 			</ul>
 		</div>
 		<!-- Sidebar -->

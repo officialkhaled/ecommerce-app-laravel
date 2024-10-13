@@ -11,7 +11,6 @@
 						<img src="{{ asset('backend/assets/images/logo-dark.png') }}" alt="logo-dark" height="20">
 					</span>
 				</a>
-				
 				<a href="#" class="logo logo-light">
 					<span class="logo-sm">
 						<img src="{{ asset('backend/assets/images/logo-sm.png') }}" alt="logo-sm-light" height="22">
@@ -167,7 +166,6 @@
 		</div>
 		
 		<div class="d-flex">
-			
 			<div class="dropdown d-inline-block d-lg-none ms-2">
 				<button type="button" class="btn header-item noti-icon waves-effect" id="page-header-search-dropdown"
 						data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -400,7 +398,6 @@
 					<i class="ri-settings-2-line"></i>
 				</button>
 			</div>
-		
 		</div>
 	</div>
 </header>
