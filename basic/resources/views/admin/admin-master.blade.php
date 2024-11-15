@@ -27,7 +27,7 @@
 	</div>
 	
 	@include('admin.body.footer')
-
+	
 </div>
 
 @include('admin.body.right-sidebar')
