@@ -18,13 +18,3 @@ Route::middleware('auth')->group(function () {
 });
 
 require __DIR__.'/auth.php';
-
-if (! $subIsActive) {}
-
-RATHER
-
-Gate::allowIf($subIsActive));
-
-OR
-
-Gate::authorize(...);
